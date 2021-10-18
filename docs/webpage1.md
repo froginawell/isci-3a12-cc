@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
   
-  For Lesson 2 of the tutorial.
+  For Lesson 2 of the [tutorial](https://isci-3a12.github.io/intro-github-markdown/).
   
   ![Coding Picture](https://thumbor.forbes.com/thumbor/640x640/https://blogs-images.forbes.com/forbestechcouncil/files/2019/01/canva-photo-editor-8-7.jpg?width=960)
   
