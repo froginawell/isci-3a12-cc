@@ -1,5 +1,5 @@
 ---
-title: Introduction to Github and Markdown (Webpage)
+title: Introduction to Github and Markdown (Page 1)
 layout: default
 nav_order: 1
 ---
