@@ -1,10 +1,14 @@
 
-# Blue Carbon to Combat Climate Change
-##Mangrove Conservation and Restoration
+# Blue Carbon to Combat Climate Change: Mangrove Conservation and Restoration
 
 
 ## Introduction to Blue Carbon
 The consensus in climate change literature has reached a disturbing conclusion. The Intergovernmental Panel on Climate Change (IPCC) warns us in their 2021 report that climate change driven by human activity threatens to bring unprecedented global temperature rises between 1.5℃ and 2℃ during the 21st century, even with massive reductions in current greenhouse gas (GHG) emission levels. Soaring temperatures will be joined by rising sea levels and increased frequency of extreme weather such as droughts, fires and tropical cyclones (IPCC, 2021). In order to limit global warming and mitigate these destructive impacts, humanity must urgently reduce as well as remove enormous volumes of GHG emissions from our atmosphere. To help meet this challenge, we look to nature-based climate solutions. Blue Carbon ecosystems such as coastal wetlands, seagrass meadows, and mangrove forests have been identified as extremely effective, long-term “carbon sinks” that absorb carbon dioxide (Donato et al., 2011). Among these ecosystems, we’ve identified mangroves as the most valuable due to its vast array of ecosystem services which ultimately protect humans and wildlife from the catastrophic effects of climate change (see Figure 1). 
+
+![Ecosystem Services Image](https://user-images.githubusercontent.com/79763761/143382265-dcbc4908-1651-46d1-b1d9-a7027528f9e4.jpeg)
+<p align="center">
+  Figure 1: Ecosystem functions and services provided by mangrove forests. Figure adapted and modified from Millennium Ecosystem Assessment (2005) and De Groot (1992).
+</p>
 
 ## Mangrove Ecosystem Services
 Mangroves are renowned for their ability to absorb carbon and store it long-term at faster rates and in greater volumes than any other terrestrial forests by unit area (Donato et al., 2011). Due to the mangrove soils existing within intertidal zones, the tidal flooding enhances collection of carbon-containing sediment and its burial beneath the water (Mcleod et al., 2011). Mangroves also act as a sanctuary for biodiversity, acting as nursery habitat where the young of a species can safely develop. Mangroves are home for a diverse plethora of trees and shrubs, fish, crabs, birds, tigers, as well invertebrates on saltwater tropical and subtropical coasts (Rog, Clarke and Cook, 2017). All of these species play important roles in the functioning and longevity of this unique ecosystem. Mangroves’ dense structure also serves to shield coastal retreat caused by erosion from human development, storms and sea-level rise as the complex root system provides structural stability for the sediments (Guannel et al., 2016; Dasgupta et al., 2019).
